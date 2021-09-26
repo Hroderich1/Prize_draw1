@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Prize draw study app</string>
+    <string name="choose_a_number">Escolha um número de 0 a 10</string>
+</resources>
